@@ -11,3 +11,8 @@ let a = 1;
 ```
 ## Userstory 007
 This is **Bold** this is *Italic* text
+## Userstory 006
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
