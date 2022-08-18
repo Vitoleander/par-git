@@ -13,4 +13,9 @@ let a = 1;
 This is **Bold** this is *Italic* text
 ## Userstory 005
 [Github](http://www.github.com)
+## Userstory 006
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
